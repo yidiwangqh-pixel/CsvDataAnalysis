@@ -1,0 +1,2 @@
+# CsvDataAnalysis
+参考Openai的code-interpreter实现的基于大模型的简易CSV数据分析系统
